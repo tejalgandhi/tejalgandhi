@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 💻 I'm a Full-Stack Developer with over **7 years** of experience.
+- 💻 I'm a Full-Stack Developer.
 - 🔭 Currently working at **Enstead** (London-based, remote role).
 - 🌐 Specializing in **PHP (Laravel)**, **Vue.js**,**React.js**,**Nuxt.js**,**Angular**, and cloud deployments.
 - ☁️ Experienced with **AWS**, **GCP**, and real-time features using **Firebase**.
