@@ -20,7 +20,7 @@ Here is Technical Skills section:
 
 ## 🖥 Backend Languages
 - PHP (7.x, 8.x)
-- Laravel (8, 9, 10)
+- Laravel
 - Lumen
 
 ## ⚙️ Frameworks & Package Management
