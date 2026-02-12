@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Tejal Gandhi</h1>
-<h3 align="center">Senior Full-Stack Developer | Laravel • Vue.js • React.js  • AWS • GCP • Firebase</h3>
+<h3 align="center">Senior Full-Stack Developer | PHP. JQuery .Javascript (Backend + Frontend) • AWS • GCP • Firebase</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
@@ -10,12 +10,180 @@
 ### 🚀 About Me
 
 - 💻 I'm a Full-Stack Developer.
-- 🔭 Currently working at **Enstead** (London-based, remote role).
 - 🌐 Specializing in **PHP (Laravel)**, **Vue.js**,**React.js**,**Nuxt.js**,**Angular**, and cloud deployments.
 - ☁️ Experienced with **AWS**, **GCP**, and real-time features using **Firebase**.
 - 🔄 Migrating legacy systems from **WordPress to Laravel**, maintaining real-time data integrity.
 
 ---
+# 💻 Technical Skills
+Here is Technical Skills section:
+
+## 🖥 Backend Languages
+- PHP (7.x, 8.x)
+- Laravel (8, 9, 10)
+- Lumen
+
+## ⚙️ Frameworks & Package Management
+- Laravel
+- Lumen
+- Symfony (Basic)
+- Composer
+
+## 🔗 API Development
+- RESTful APIs
+- GraphQL
+- Swagger / OpenAPI
+- Postman
+- Insomnia
+- API Rate Limiting
+
+## 🔐 Authentication & Security
+- Laravel Passport
+- Laravel Sanctum
+- JWT (JSON Web Tokens)
+- OAuth2
+- SAML
+- CSRF / XSS Protection
+- SSL/TLS
+- Multi-Factor Authentication (MFA)
+
+## 🗄 Database Technologies
+- MySQL
+- PostgreSQL
+- Redis
+- MongoDB (Basic)
+- Eloquent ORM
+- Query Builder
+- Raw SQL
+
+## ⚡ Caching
+- Redis
+- Memcached
+- Laravel Cache
+- Response Caching
+- Query Caching
+
+## 📬 Queue & Job Management
+- Laravel Queues
+- Redis Queue
+- Laravel Horizon
+- Supervisor
+- Job Prioritization
+
+## 🏗 Microservices & Architecture
+- Microservice Architecture
+- Service-Oriented Architecture (SOA)
+- JSON over HTTP
+- Event-Driven Systems
+
+## 📢 Event Systems & Messaging
+- Laravel Events & Listeners
+- Broadcasting
+- Webhooks
+- RabbitMQ
+- Kafka (Basic)
+
+## ⏰ Scheduling & Automation
+- Laravel Scheduler
+- Custom Artisan Commands
+- CRON Jobs
+
+## 🚀 DevOps & CI/CD
+- GitHub Actions
+- GitLab CI/CD
+- Jenkins
+- Laravel Envoyer
+- Docker
+- Laravel Sail
+- Nginx
+- Apache
+
+## 📦 Containerization & Virtualization
+- Docker
+- Docker Compose
+- Laravel Sail
+
+## 🧪 Testing & QA
+- PHPUnit
+- PestPHP
+- Feature Testing
+- Integration Testing
+- Test-Driven Development (TDD)
+- Behavior-Driven Development (BDD)
+
+## 🗂 Version Control
+- Git
+- GitHub
+- GitLab
+- Bitbucket
+
+## ☁️ Cloud & Hosting
+- AWS (EC2, RDS, S3, SNS, SQS)
+- DigitalOcean
+- Heroku
+- cPanel
+
+## 📊 Monitoring & Logging
+- Monolog
+- Sentry
+- Graylog
+- ELK Stack
+- Prometheus
+- Grafana
+- New Relic
+
+## 🎨 Front-End Integration
+- Blade
+- Vue.js (Basic)
+- Axios
+- Inertia.js (Basic Understanding)
+
+## 📑 Reporting & Document Generation
+- Laravel Excel
+- DOMPDF
+- SnappyPDF
+- TCPDF
+
+## 🛡 Compliance & Security
+- HIPAA (Knowledge)
+- FINRA (Knowledge)
+- PCI-DSS (Knowledge)
+- Encryption
+- Secure Audit Logs
+- Access Control
+
+## 🛠 Tools & Platforms
+- PhpStorm
+- VS Code
+- Xdebug
+- Laravel Telescope
+- Laravel Debugbar
+- Artisan CLI
+
+## 📋 Methodologies & Principles
+- Agile
+- Scrum
+- SOLID Principles
+- Domain-Driven Design (DDD)
+- Test-Driven Development (TDD)
+- Behavior-Driven Development (BDD)
+
+## 🔌 3rd-Party Integrations
+- Stripe
+- Plaid
+- Twilio
+- SendGrid
+- Mailgun
+- EHR / EMR APIs
+- Claims APIs
+- Payment Gateways
+
+## 📝 Documentation
+- Swagger / OpenAPI
+- Markdown
+- Confluence
+- Notion
+
 
 ### 🛠️ Tech Stack
 
